@@ -5,3 +5,4 @@ Rick Grimes ist der ehemalige Protagonist und ein Ueberlebender des Ausbruchs in
 * hart
 * familienfreundlich
 * ehrlich
+> "WE DON'T KILL THE LIVING."
